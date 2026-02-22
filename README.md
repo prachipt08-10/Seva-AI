@@ -1,0 +1,2 @@
+# Seva-AI
+Hospital management
